@@ -1,1 +1,1 @@
-# electronic-codebook-image-demonstration
+# Electronic Codebook Image Demonstration
