@@ -1,9 +1,9 @@
 '''
-Daniel Gockel's unsecure advanced encryption standard electronic codebook bitmap image encryptor (AES & ECB) 
+Daniel Gockel's insecure advanced encryption standard electronic codebook bitmap image encryptor (AES & ECB) 
 	based on Chaos Computer Club
 
 This program converts a bitmap image into an AES Encrypted version.
-Objects in the image are still visible!! This demonstrates that AES is unsecure if it is used with ECB Block Cipher Mode.
+Objects in the image are still visible!! This demonstrates that AES is insecure if it is used with ECB Block Cipher Mode.
 
 Example:
 	python encrypt_image.py

@@ -1,5 +1,8 @@
 # Electronic Codebook Image Demonstration
 
+This program converts a bitmap image into an AES (Advanced Encryption Standard) encrypted version.
+Objects inside the image are still visible!! This demonstrates that AES is insecure if it is used with ECB Block Cipher Mode.
+
 ## Installation
 1. Install Python 3 if you don't have it already
 2. `pip install pycrypto`
