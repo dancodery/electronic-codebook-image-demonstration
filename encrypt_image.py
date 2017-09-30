@@ -134,7 +134,7 @@ if __name__ == '__main__':
 	# for AES-128 a 128bit key ^= 16 Bytes is needed
 	key = b"Sixteen Byte KeySixteen Byte Key" # 32 characters
 	#print(sys.getsizeof(key))
-	skip = 68  # Number of Bytes not to encrypt
+	skip = 130  # Number of Bytes not to encrypt
 	cipher_obj = AES.new(key) # AES object with key
 
 	##### MAIN FUNCTION CALLS
