@@ -8,6 +8,6 @@
 You can start 'encrypt_image' with arguments (it will use the default JavaDuke.bmp) or
 you can feed in your own Bitmap file as an argument.
 
-<img src='JavaDuke.bmp'><img src='encrypt_image.bmp'>
+<img src='JavaDuke.bmp'><img src='ecb_enc.bmp'>
 On the left image you see the Java Duke which we're encrypting in this program. 
 
