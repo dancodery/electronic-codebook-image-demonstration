@@ -9,5 +9,13 @@ You can start 'encrypt_image' with arguments (it will use the default JavaDuke.b
 you can feed in your own Bitmap file as an argument.
 
 <img src='JavaDuke.bmp'><img src='ecb_enc.bmp'>
-On the left image you see the Java Duke which we're encrypting in this program. 
 
+On the left image you see the Java Duke which we encrypt in this program. 
+The duke is divided into a certain number of blocks. Each block is AES encrypted.
+As you can see the blocks are encrypted the same way.
+This enables us to see objects in the image even that it is AES encrypted.
+So think twice the next time before using ECB.
+
+Please give me a star if you like this repo ;=)
+
+Copyright 2017 **© Daniel Gockel**
